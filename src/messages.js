@@ -1,4 +1,4 @@
 module.exports = {
-  hi: 'Oh Hi, it is working very well I am impressed with webpack so far !',
+  hi: 'Oh Hi, it seems to be working fine',
   event: ' Upsala JS'
 };
