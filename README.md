@@ -1,0 +1,2 @@
+# webpackbase
+Starter Webpack Project
