@@ -77,7 +77,7 @@ app.innerHTML = "<p>" + messages.hi + messages.event + '</p>';
 /***/ (function(module, exports) {
 
 module.exports = {
-  hi: 'Oh Hi There this is a much much longer message and will take up much more room !',
+  hi: 'Oh Hi, it is working very well I am impressed with webpack so far !',
   event: ' Upsala JS'
 };
 
