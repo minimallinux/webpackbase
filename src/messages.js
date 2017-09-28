@@ -1,4 +1,4 @@
 module.exports = {
-  hi: 'Oh Hi, it is working very well impressed !',
+  hi: 'It seems to be working fine',
   event: ' Upsala JS'
 };
